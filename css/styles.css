@@ -80,7 +80,7 @@ ul {
     padding: 0;
 }
 
-header a, .inicio a {
+a {
     color: var(--text_color);
     text-decoration: none;
     transition: 500ms;
